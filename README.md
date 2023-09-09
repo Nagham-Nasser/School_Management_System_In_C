@@ -1,4 +1,4 @@
-<h1> # School_Management_System_In_C
+<h1> # School_Management_System_In_C <h1>
 This is a school management system project implemented in C. The project follows a layered architecture approach, which consists of three layers.
  .The First Layer
   This Layer contain the List.c and List.h files. They are the Doubky Linked List files to add or remove any node, and search for specific data.
