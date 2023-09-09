@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1693442025 source:g:\nti\finalproject\project\list.c
+	"List.h"
+
+1693475434 g:\nti\finalproject\project\list.h
+	"STD_Types.h"
+	<stdio.h>
+	<stdlib.h>
+
+1693437986 g:\nti\finalproject\project\std_types.h
+
+1693440447 source:g:\nti\finalproject\project\main.c
+	<stdio.h>
+	"Student.h"
+
+1693440592 g:\nti\finalproject\project\student.h
+	"List.h"
+
+1693441922 source:g:\nti\finalproject\project\student.c
+	"Student.h"
+	<string.h>
+
